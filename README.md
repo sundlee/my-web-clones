@@ -11,3 +11,6 @@
   * [실습 결과 링크](https://sundlee.github.io/my-web-clones/dreamcoding/navbar/)
 * [유튜브 사이트 따라 만들기](https://youtu.be/67stn7Pu7s4)
   * [실습 결과 링크](https://sundlee.github.io/my-web-clones/dreamcoding/youtube/)
+* [쇼핑몰 미니게임 클론 코딩](https://academy.dream-coding.com/courses/mini-shopping)
+  * [실습 결과 링크](https://sundlee.github.io/my-web-clones/dreamcoding/minishopping/)
+
