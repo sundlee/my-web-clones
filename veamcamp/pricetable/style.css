@@ -1,0 +1,95 @@
+body, h1, h2, p, ul {
+  margin: 0;
+  padding: 0;
+  font-family: 'Roboto', sans-serif;
+}
+li {
+  list-style-type: none;
+}
+strong {
+  font-weight: normal;
+}
+body {
+  background-color: #ddd;
+  color: #333;
+}
+.wrapper {
+  width: 960px;
+  margin: 0 auto;
+  padding: 40px 0;
+}
+.title {
+  margin-bottom: 50px;
+  text-align: center;
+}
+.price {
+  display: flex;
+  margin: 0 -20px;
+}
+.price-item {
+  background-color: white;
+  flex-basis: 33.333333333%;
+  margin: 0 20px;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+.price-item-header,
+.price-item-footer {
+  padding: 20px;
+  text-align: center;
+}
+.price-item-header {
+  flex-basis: 80px;
+}
+.price-item-content {
+  padding: 20px;
+  background-color: #efefef;
+  flex-basis: 250px;
+}
+.price-item-footer {
+  flex-basis: 120px;
+}
+.list {
+  line-height: 1.4;
+}
+.list-item {
+  /* background-color: aqua; */
+  margin-bottom: 8px;
+  display: flex;
+}
+.list-item p span {
+  display: block;
+  color: #999;
+}
+.list-item-icon {
+  flex-shrink: 0;
+  margin-right: 0.4em;
+  margin-top: 2px;
+  color: limegreen;
+  fill: currentColor
+}
+img.list-item-icon {
+  margin-top: 6px;
+}
+.tag {
+  margin-bottom: 20px;
+  font-size: 30px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.tag span {
+  font-size: 0.5em;
+  margin: 0 0.2em;
+}
+.button {
+  background-color: dodgerblue;
+  color: white;
+  display: block;
+  padding: 20px 0;
+  transition: all .4s;
+}
+.button:hover {
+  background-color: darkblue;
+}

@@ -14,6 +14,10 @@
 * [쇼핑몰 미니게임 클론 코딩](https://academy.dream-coding.com/courses/mini-shopping)
   * [실습 결과 링크](https://sundlee.github.io/my-web-clones/dreamcoding/minishopping/)
 
+## 빔캠프
+* [GitHub Pricing Table 만들기](https://youtu.be/lQKPJckCYA4)
+  * [실습 결과 링크](https://sundlee.github.io/my-web-clones/veamcamp/pricetable/)
+
 ## Etc
 * [나만의 포트폴리오 웹페이지 만들기](https://inf.run/4p1W)
   * [실습 결과 링크](https://sundlee.github.io/my-web-clones/etc/portfolio/)
