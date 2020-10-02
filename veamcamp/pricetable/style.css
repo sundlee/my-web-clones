@@ -89,6 +89,7 @@ img.list-item-icon {
   display: block;
   padding: 20px 0;
   transition: all .4s;
+  cursor: pointer;
 }
 .button:hover {
   background-color: darkblue;
